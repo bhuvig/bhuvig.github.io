@@ -10,7 +10,7 @@ I am a Second Year Undergraduate in the Department of Electrical Engineering, II
 
 
 ### More Information
-I like to try new stuff besides exploring more of what I already know. You can find my academic career summed up [here](https://github.com/bhuvig/bhuvig.github.io/blob/master/Resume.pdf).
+I like to try new stuff besides exploring more of what I already know. You can find my academic career summed up [here](http://home.iitk.ac.in/~bhuvig/resume.pdf).
 
 
 ### Contact me
