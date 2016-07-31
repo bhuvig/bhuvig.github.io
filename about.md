@@ -4,12 +4,15 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+
+
+I am a Second Year Undergraduate in the Department of Electrical Engineering, IIT Kanpur. I am a tech enthusiast. My current interests lie in Artificial Intelligence, Machine Learning, Game Theory and Cyber Security. Don't ask me what I want to do with my life, I don't know yet!
+
 
 ### More Information
+I like to try new stuff besides exploring more of what I already know. You can find my academic career summed up [here](https://github.com/bhuvig/bhuvig.github.io/blob/master/Resume.pdf).
 
-A place to include any other types of information that you'd like to include about yourself.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[bhuvig@iitk.ac.in](mailto:bhuvig@iitk.ac.in)
