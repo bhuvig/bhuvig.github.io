@@ -6,7 +6,7 @@ permalink: /about/
 
 
 
-I am a Second Year Undergraduate in the Department of Electrical Engineering, IIT Kanpur. I am a tech enthusiast. My current interests lie in Artificial Intelligence, Machine Learning, Game Theory and Cyber Security. Don't ask me what I want to do with my life, I don't know yet!
+I am a Second Year Undergraduate in the Department of Electrical Engineering, IIT Kanpur. I am a tech enthusiast. My current interests lie in Robotics, Artificial Intelligence, Machine Learnin and Cyber Security. Don't ask me what I want to do with my life, I don't know yet!
 
 
 ### More Information
